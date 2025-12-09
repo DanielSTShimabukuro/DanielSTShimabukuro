@@ -7,8 +7,3 @@
 
 - 📫 How to reach me: daniel.s.t.shimabukuro@gmail.com
 - 😄 Pronouns: He/Him
-
-# GitHub Stats <!-- omit in toc -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSTShimabukuro&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSTShimabukuro&layout=compact&theme=dracula)

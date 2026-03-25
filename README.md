@@ -7,7 +7,7 @@
 
 📫 How to reach me:
 -  daniel.s.t.shimabukuro@gmail.com
--  https://www.linkedin.com/in/daniel-shimabukuro-491029332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-  www.linkedin.com/in/danielstshimabukuro
 
 😄 Pronouns: He/Him
 
